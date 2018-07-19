@@ -27,7 +27,22 @@ img{
     font-family:trebuchet MS;
     text-align:center;
     font-size: 35px;
+    border-style: double;
+    border-width: 30px;
+    border-color:red;
+    background-color:lightgrey;
+    border-radius: 15px; 
 }
+#heartPizza{
+    height: 10%;
+    width:10%;
+    display:block;
+}
+.pizzaName{
+    font-size: 40px;
+    color
+}
+
 
 #menu{
     text-align:center;
@@ -39,7 +54,9 @@ img{
     font-size: 40px;
     text-align:center;
 }
-
+a:hover{
+    color: green;
+}
 #intro{
     font-family:trebuchet MS;
     font-size: 25px;
